@@ -1,0 +1,55 @@
+body{
+	box-sizing: border-box;
+	background: url(../bg.jpg);
+	color: white;
+	width: 40%;
+	margin: 0 auto;
+}
+
+.container{
+	margin-top: 30px;
+}
+
+input{
+	border-radius: 5px;
+}
+
+input[type="textbox"]{
+	width: 150px;
+	height: 40px;
+	background-color: #00FF00;
+}
+
+input[type="submit"]{
+	background-color: #00FFFF;
+}
+
+input[type="submit"]:focus{
+	transform: scale(0.9);
+}
+
+form{
+	display: flex;
+	justify-content: space-between;
+}
+
+.img{
+	display: ;
+	justify-content: 
+}
+
+img{
+	height: 250px;
+	width: 250px;
+}
+
+p{
+	color: #FF0000;
+	font-weight: bold;
+	font-size: 30px;
+}
+
+.img p{
+	color: #FFFF00;
+}
+
